@@ -19,7 +19,7 @@ You must have bower installed for installing the requires. If you don't know how
 4- Make active theme from admin panel.
 
 ### License
-AdminLteWpTheme is an open source project by [Lucas Girard](http://softwaredeveloper-Lucas) that is licensed under [MIT](http://opensource.org/licenses/MIT).
+AdminLteWpTheme is an open source project by [Lucas Girard](http://github.com/softwaredeveloper-Lucas) that is licensed under [MIT](http://opensource.org/licenses/MIT).
 
 ### Contribution
 Contribution are always **welcome and recommended**! Here is how:
